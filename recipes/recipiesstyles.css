@@ -1,0 +1,27 @@
+#potatoes {
+    height: 400px;
+    width: 600px;
+}
+
+* {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+li {
+    font-size: 20px;
+}
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
